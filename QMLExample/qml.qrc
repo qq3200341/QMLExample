@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>QtQuickBasic/QtQuickBasic.qml</file>
+    </qresource>
+</RCC>
